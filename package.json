@@ -1,7 +1,7 @@
 {
   "name": "Spectacular",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Spectacular TM syntax theme port to Atom",
   "repository": "https://github.com/filiperocha/spectacular",
   "license": "MIT",

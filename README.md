@@ -1,5 +1,7 @@
 # Spectacular theme
 
-Spectacular TM Theme port to Atom.
+Spectacular PlasticCandyWrap (Spectacular Remix) TM Theme port to Atom.
 
-![A screenshot of your theme](http://gngrwzrd.com/downloads/spectacular.png)
+by [Aaron Smith](http://gngrwzrd.com/)
+
+![A screenshot of your theme](https://db.tt/anvQ4G2E)
